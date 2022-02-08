@@ -74,3 +74,15 @@ p{
 .icon:hover{
     color: #ff4c68;
 }
+
+/*---------------------------------------------------*/
+/* Class Selectors for Testimonials Section */
+#testimonials{
+    text-align: center;
+    padding: 5% 7%;
+    background-color:#ef8172;
+    font-style:"Montserrat";
+    font-weight: bold;
+    color:#ffff;
+    
+}
